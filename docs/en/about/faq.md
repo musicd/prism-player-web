@@ -1,8 +1,8 @@
-# FAQ
+﻿# FAQ
 
-## What is Prism English?
+## What is Prism Lines?
 
-A **desktop** language-learning app: import local video and subtitles, learn line by line, mark words known or not, build spaced-repetition cards, and replay original sentences on review. Chinese product name: **棱镜英语**.
+A **desktop** language-learning app: import local video and subtitles, learn line by line, mark words known or not, build spaced-repetition cards, and replay original sentences on review. Chinese product name: **词有戏**.
 
 ## What video and subtitles are supported?
 
@@ -18,7 +18,7 @@ By default on your machine in the app user data directory. Back it up yourself; 
 
 ## How is this different from Anki?
 
-Prism English is built around **TV subtitle workflow**: timeline splits, video jumps while learning, sentence replay on review. Anki is a general memory tool—they can complement each other; export sync is a future consideration.
+Prism Lines is built around **TV subtitle workflow**: timeline splits, video jumps while learning, sentence replay on review. Anki is a general memory tool—they can complement each other; export sync is a future consideration.
 
 ## Which languages can I learn?
 
@@ -26,7 +26,7 @@ Depends on subtitles and dictionary support you configure; English is the primar
 
 ## What about subtitle copyright?
 
-Prism English **does not supply** any shows or subs. Use media you have rights to. The app only processes local files.
+Prism Lines **does not supply** any shows or subs. Use media you have rights to. The app only processes local files.
 
 ## Where are download links?
 

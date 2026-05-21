@@ -4,11 +4,11 @@ layout: home
 
 ## 用户协议 / Terms of Service
 
-### **棱镜英语 用户服务协议**
+### **词有戏 用户服务协议**
 
 **1. 服务说明**
 
-棱镜英语是一款桌面端语言学习应用。你在本机导入的视频与字幕由应用在本地解析，用于按句学习、词汇标记、间隔复习及句子回放。棱镜英语不提供、不托管任何影视内容。
+词有戏是一款桌面端语言学习应用。你在本机导入的视频与字幕由应用在本地解析，用于按句学习、词汇标记、间隔复习及句子回放。词有戏不提供、不托管任何影视内容。
 
 **2. 软件获取与更新**
 
@@ -23,7 +23,7 @@ layout: home
 
 * 你须对导入的**视频与字幕文件**拥有合法使用权，并遵守所在地著作权与个人信息相关法律。
 * 不得利用本应用传播、复制或分享无授权的受版权保护内容。
-* 棱镜英语不对用户导入或使用的第三方媒体内容承担法律责任。
+* 词有戏不对用户导入或使用的第三方媒体内容承担法律责任。
 
 **5. 免责声明**
 
@@ -35,4 +35,4 @@ layout: home
 
 ---
 
-*English summary: Prism English is a desktop app for local video/subtitle-based language learning. Users must have legal rights to their media. The app is provided as-is; see full Chinese terms above.*
+*English summary: Prism Lines is a desktop app for local video/subtitle-based language learning. Users must have legal rights to their media. The app is provided as-is; see full Chinese terms above.*

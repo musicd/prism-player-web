@@ -1,11 +1,11 @@
----
+﻿---
 layout: page
 title: Download
 ---
 
 # Download Desktop App
 
-Prism English (棱镜英语) is a **Windows / macOS** desktop application. Install links will be updated on this page when officially released.
+Prism Lines (词有戏) is a **Windows / macOS** desktop application. Install links will be updated on this page when officially released.
 
 ## Windows
 

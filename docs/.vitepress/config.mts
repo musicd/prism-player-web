@@ -9,8 +9,8 @@ export default defineConfig({
     root: {
       label: '简体中文',
       lang: 'zh-CN',
-      title: '棱镜英语',
-      description: '棱镜英语官方文档 — 用影视字幕学英语的桌面学习工具',
+      title: '词有戏',
+      description: '词有戏官方文档 — 用影视字幕学英语的桌面学习工具',
       themeConfig: {
         logo: '/FluentColorChat20.svg',
         nav: [
@@ -52,7 +52,7 @@ export default defineConfig({
           message:
             '如有建议或反馈，请通过 <a href="mailto:ned@ptodo.top">邮件</a> 或 <a href="https://github.com/你的用户名/prism-english/issues">GitHub Issues</a> 联系我',
           copyright:
-            'Copyright © 2024-present 棱镜英语 | <a href="/legal/tos">用户协议</a> | <a href="/legal/privacy-policy">隐私政策</a>',
+            'Copyright © 2024-present 词有戏 | <a href="/legal/tos">用户协议</a> | <a href="/legal/privacy-policy">隐私政策</a>',
         },
       },
     },
@@ -60,9 +60,9 @@ export default defineConfig({
       label: 'English',
       lang: 'en-US',
       link: '/en/',
-      title: 'Prism English',
+      title: 'Prism Lines',
       description:
-        'Prism English official docs — Desktop app to learn English from TV and video subtitles',
+        'Prism Lines official docs — Desktop app to learn English from TV and video subtitles',
       themeConfig: {
         logo: '/FluentColorChat20.svg',
         nav: [
@@ -107,7 +107,7 @@ export default defineConfig({
           message:
             'Feedback? Reach us via <a href="mailto:ned@ptodo.top">email</a> or <a href="https://github.com/你的用户名/prism-english/issues">GitHub Issues</a>',
           copyright:
-            'Copyright © 2024-present Prism English | <a href="/en/legal/tos">Terms</a> | <a href="/en/legal/privacy-policy">Privacy</a>',
+            'Copyright © 2024-present Prism Lines | <a href="/en/legal/tos">Terms</a> | <a href="/en/legal/privacy-policy">Privacy</a>',
         },
       },
     },

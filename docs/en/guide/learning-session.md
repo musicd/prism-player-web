@@ -1,4 +1,4 @@
-# Learning Session
+﻿# Learning Session
 
 A session is usually a stretch of subtitles from one episode: move sentence by sentence, understand meaning, then check each word.
 
@@ -39,4 +39,4 @@ After a batch, check today’s new words and pending reviews on the dashboard.
 
 ## Why This Design?
 
-Isolated word lists rarely teach tone and usage. Prism English **pins each word to the line where you met it**—on review you hear the character’s real delivery, not a generic example. Next: [Review & Sentence Playback](/en/guide/review).
+Isolated word lists rarely teach tone and usage. Prism Lines **pins each word to the line where you met it**—on review you hear the character’s real delivery, not a generic example. Next: [Review & Sentence Playback](/en/guide/review).

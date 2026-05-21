@@ -1,4 +1,4 @@
-# Review & Sentence Playback
+﻿# Review & Sentence Playback
 
 Review closes the loop: spaced repetition fights forgetting; **sentence playback** preserves context.
 
@@ -29,4 +29,4 @@ If a word stays fuzzy, return to [Learning Session](/en/guide/learning-session) 
 
 ## Why This Design?
 
-Without sentences, words become abstract symbols. Prism English keeps a one-tap **back to the line** on review so each word reconnects to the scene you watched. Background: [Why Learn This Way](/en/about/why-learn-this-way).
+Without sentences, words become abstract symbols. Prism Lines keeps a one-tap **back to the line** on review so each word reconnects to the scene you watched. Background: [Why Learn This Way](/en/about/why-learn-this-way).

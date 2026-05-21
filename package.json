@@ -1,6 +1,6 @@
 {
-  "name": "prism-english-web",
-  "description": "棱镜英语官方文档站 — Landing 与使用指南",
+  "name": "prism-lines-web",
+  "description": "词有戏官方文档站 — Landing 与使用指南",
   "devDependencies": {
     "vitepress": "2.0.0-alpha.17"
   },

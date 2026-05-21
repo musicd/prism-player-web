@@ -1,6 +1,6 @@
-# Why Learn This Way
+﻿# Why Learn This Way
 
-Many English learners follow: vocabulary app → quit → binge with subtitles → feel “I’m learning” but cannot point to what stuck. Prism English targets the gap in between: **carry language out of shows you actually understand.**
+Many English learners follow: vocabulary app → quit → binge with subtitles → feel “I’m learning” but cannot point to what stuck. Prism Lines targets the gap in between: **carry language out of shows you actually understand.**
 
 ## Limits of Common Approaches
 
@@ -10,7 +10,7 @@ Many English learners follow: vocabulary app → quit → binge with subtitles �
 | Binge-watching | Fun, high input | Passive; familiar words repeat, new ones slip by |
 | Textbooks | Clear curriculum | Often disconnected from personal interest |
 
-Prism English combines strengths: interest from video, structure from subtitle splits and review schedules, depth from **actively judging each word**.
+Prism Lines combines strengths: interest from video, structure from subtitle splits and review schedules, depth from **actively judging each word**.
 
 ## Our Method: Subtitles + Active Words + Sentence Playback
 
@@ -24,7 +24,7 @@ Acquisition research (e.g. Krashen’s comprehensible input) suggests learners n
 
 ### 3. Spaced Repetition vs. Forgetting
 
-The forgetting curve shows unrehearsed information fades fast. Scheduling unknown words at 1, 3, 7, 30 days is a proven way to maximize long-term retention per minute spent. Prism English implements this—you open **Today’s Review**.
+The forgetting curve shows unrehearsed information fades fast. Scheduling unknown words at 1, 3, 7, 30 days is a proven way to maximize long-term retention per minute spent. Prism Lines implements this—you open **Today’s Review**.
 
 ### 4. Original Sentence Playback = Context Memory
 
@@ -36,7 +36,7 @@ References to learning and memory research reflect widely cited public science, 
 
 ## Relation to Anki
 
-Anki excels at general spaced repetition. Prism English optimizes the **TV subtitle workflow**: import, learn by line, auto timestamps, replay clips on review. Heavy Anki users can treat Prism English as a “video-aware front end”; export interoperability depends on future versions.
+Anki excels at general spaced repetition. Prism Lines optimizes the **TV subtitle workflow**: import, learn by line, auto timestamps, replay clips on review. Heavy Anki users can treat Prism Lines as a “video-aware front end”; export interoperability depends on future versions.
 
 ---
 

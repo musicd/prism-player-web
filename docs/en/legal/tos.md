@@ -1,14 +1,14 @@
----
+﻿---
 layout: home
 ---
 
 ## Terms of Service
 
-### **Prism English Terms of Service**
+### **Prism Lines Terms of Service**
 
 **1. Service Description**
 
-Prism English (棱镜英语) is a desktop language-learning application. Video and subtitles you import are parsed locally for line-by-line study, vocabulary marking, spaced review, and sentence playback. The app does not host or distribute any video content.
+Prism Lines (词有戏) is a desktop language-learning application. Video and subtitles you import are parsed locally for line-by-line study, vocabulary marking, spaced review, and sentence playback. The app does not host or distribute any video content.
 
 **2. Distribution & Updates**
 
@@ -23,7 +23,7 @@ Paid features, if introduced later, will include separate pricing and refund ter
 
 * You must have legal rights to **video and subtitle files** you import and comply with local copyright and privacy laws.
 * Do not use the app to share or distribute unauthorized copyrighted media.
-* Prism English is not liable for third-party media you import or use.
+* Prism Lines is not liable for third-party media you import or use.
 
 **5. Disclaimer**
 

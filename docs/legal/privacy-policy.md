@@ -4,7 +4,7 @@ layout: home
 
 ## 隐私政策 / Privacy Policy
 
-### **棱镜英语 隐私政策**
+### **词有戏 隐私政策**
 
 **1. 数据处理原则**
 
@@ -37,4 +37,4 @@ layout: home
 
 ---
 
-*English summary: Prism English stores learning data locally by default. Optional online features (dictionary, updates) may send minimal data. We do not sell personal data. See Chinese terms above for details.*
+*English summary: Prism Lines stores learning data locally by default. Optional online features (dictionary, updates) may send minimal data. We do not sell personal data. See Chinese terms above for details.*

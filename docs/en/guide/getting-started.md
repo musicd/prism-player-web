@@ -1,6 +1,6 @@
-# Quick Start
+﻿# Quick Start
 
-Prism English is not another isolated vocabulary app. It starts from **shows and videos you already watch and care about**: subtitles are the textbook, video is the context, and every “know / don’t know” choice is real learning.
+Prism Lines is not another isolated vocabulary app. It starts from **shows and videos you already watch and care about**: subtitles are the textbook, video is the context, and every “know / don’t know” choice is real learning.
 
 ## Install (Desktop)
 
@@ -9,7 +9,7 @@ Prism English is not another isolated vocabulary app. It starts from **shows and
 3. On the welcome screen, choose your **target language** (e.g. English).
 
 ::: warning
-Use only official installers. You are responsible for the copyright of video files you import; Prism English only helps you learn from subtitles you already have.
+Use only official installers. You are responsible for the copyright of video files you import; Prism Lines only helps you learn from subtitles you already have.
 :::
 
 ## Five-Minute Overview

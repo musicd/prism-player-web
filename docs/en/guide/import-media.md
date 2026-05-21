@@ -1,6 +1,6 @@
-# Import Video & Subtitles
+﻿# Import Video & Subtitles
 
-Prism English uses **local video + subtitles** as raw material. Import TV series, films, interviews, or any subtitled video.
+Prism Lines uses **local video + subtitles** as raw material. Import TV series, films, interviews, or any subtitled video.
 
 ## Supported Video
 
@@ -28,9 +28,9 @@ After import, the app:
 2. Maps each cue to a **learning unit** (sentence + start/end time);
 3. Links video segments for playback during study.
 
-No manual cutting—Prism English splits by subtitles automatically. Next: [Learning Session](/en/guide/learning-session).
+No manual cutting—Prism Lines splits by subtitles automatically. Next: [Learning Session](/en/guide/learning-session).
 
 ## Compliance
 
 - Use video and subtitles you **have the right to use**.
-- Prism English does not provide or distribute any media; it only processes files on your computer.
+- Prism Lines does not provide or distribute any media; it only processes files on your computer.

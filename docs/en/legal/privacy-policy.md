@@ -1,10 +1,10 @@
----
+﻿---
 layout: home
 ---
 
 ## Privacy Policy
 
-### **Prism English Privacy Policy**
+### **Prism Lines Privacy Policy**
 
 **1. Principles**
 

@@ -2,7 +2,7 @@
 layout: home
 
 hero:
-  name: "Prism English"
+  name: "Prism Lines"
   text: "Learn a language from every line you've watched"
   tagline: "Import TV shows or any subtitled video, split lessons by subtitles, mark words you know, build flashcards, and replay the original sentences when you review."
   image:

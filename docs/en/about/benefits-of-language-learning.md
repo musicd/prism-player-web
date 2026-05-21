@@ -1,4 +1,4 @@
-# Benefits of Language Learning
+﻿# Benefits of Language Learning
 
 Learning another language is not only another exam or thicker dictionary. It can change how you think, work, enjoy media, and understand other cultures.
 
@@ -24,7 +24,7 @@ Learning another language is not only another exam or thicker dictionary. It can
 
 ## Why Learn from “Lines” on Screen?
 
-Language ultimately lives in **real situations**. TV dialogue packs rhythm, emotion, and culture—often closer to living speech than textbook samples. Prism English systematizes that material so you need not choose between fun and method.
+Language ultimately lives in **real situations**. TV dialogue packs rhythm, emotion, and culture—often closer to living speech than textbook samples. Prism Lines systematizes that material so you need not choose between fun and method.
 
 ---
 

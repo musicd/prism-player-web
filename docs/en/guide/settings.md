@@ -1,6 +1,6 @@
-# Settings
+﻿# Settings
 
-Tune Prism English to your habits so review stays sustainable.
+Tune Prism Lines to your habits so review stays sustainable.
 
 ## Language & Goals
 

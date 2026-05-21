@@ -1,6 +1,6 @@
-# Our Story
+﻿# Our Story
 
-Prism English (棱镜英语) started from a personal frustration: **I love TV series and want English—but neither path I tried stuck.**
+Prism Lines (词有戏) started from a personal frustration: **I love TV series and want English—but neither path I tried stuck.**
 
 ## The Vocabulary App Fatigue
 
@@ -32,7 +32,7 @@ We are building **Windows / macOS** first to nail core experience before other p
 Replace this block with your real story. Readers connect to specifics—which show, which line, which day you decided to build this.
 
 - First time a subtitle word blocked you, then you forgot it after looking it up—which episode?
-- What did you try before Prism English? Why quit?
+- What did you try before Prism Lines? Why quit?
 - Hardest or happiest decision while building?
 - What should users look like one year from using the app?
 :::
