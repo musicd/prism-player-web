@@ -1,0 +1,12 @@
+{
+  "name": "prism-english-web",
+  "description": "棱镜英语官方文档站 — Landing 与使用指南",
+  "devDependencies": {
+    "vitepress": "2.0.0-alpha.17"
+  },
+  "scripts": {
+    "dev": "vitepress dev docs",
+    "build": "vitepress build docs",
+    "docs:preview": "vitepress preview docs"
+  }
+}
