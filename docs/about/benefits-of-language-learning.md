@@ -28,4 +28,4 @@
 
 ---
 
-准备好开始，请前往 [开始使用](/guide/getting-started)。想了解开发者的初衷，见 [我们的故事](/about/our-story)。
+准备好开始，请前往 [快速上手](/guide/quick-start)。想了解开发者的初衷，见 [我们的故事](/about/our-story)。

@@ -15,7 +15,7 @@ export default defineConfig({
         logo: '/FluentColorChat20.svg',
         nav: [
           { text: '首页', link: '/' },
-          { text: '文档', link: '/guide/getting-started' },
+          { text: '文档', link: '/guide/quick-start' },
           { text: '理念', link: '/about/why-learn-this-way' },
           { text: '下载', link: '/download' },
         ],
@@ -23,10 +23,7 @@ export default defineConfig({
           {
             text: '快速上手',
             items: [
-              { text: '开始使用', link: '/guide/getting-started' },
-              { text: '导入视频与字幕', link: '/guide/import-media' },
-              { text: '学习一节内容', link: '/guide/learning-session' },
-              { text: '复习与句子回放', link: '/guide/review' },
+              { text: '视频教程', link: '/guide/quick-start' },
               { text: '设置与偏好', link: '/guide/settings' },
             ],
           },

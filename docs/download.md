@@ -32,4 +32,4 @@ title: 下载
 | Windows | Windows 10 64 位及以上 |
 | macOS | macOS 12 及以上（Apple Silicon / Intel） |
 
-安装与首次使用说明见 [开始使用](/guide/getting-started)。
+安装与首次使用说明见 [快速上手](/guide/quick-start)。

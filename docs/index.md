@@ -9,8 +9,8 @@ hero:
     src: /undraw_thinking-mode_7czd.svg
   actions:
     - theme: brand
-      text: 开始使用
-      link: /guide/getting-started
+      text: 快速上手
+      link: /guide/quick-start
     - theme: alt
       text: 下载桌面版
       link: /download

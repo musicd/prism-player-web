@@ -1,3 +1,3 @@
-﻿---
+---
 redirect: /guide/quick-start
 ---

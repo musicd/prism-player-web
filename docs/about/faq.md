@@ -6,7 +6,7 @@
 
 ## 支持哪些视频和字幕？
 
-常见本地视频格式（如 MP4、MKV 等）及内嵌 / 外挂字幕（如 SRT、ASS）。详见 [导入视频与字幕](/guide/import-media)。
+常见本地视频格式（如 MP4、MKV 等）及内嵌 / 外挂字幕（如 SRT、ASS）。详见 [快速上手](/guide/quick-start)。
 
 ## 需要联网吗？
 
