@@ -2,7 +2,7 @@
 
 词有戏是**桌面端**影视学英语工具：把你本地的美剧、电影当作教材，用字幕拆成句子，边看边认词、标记、复习。视频与字幕都在本机处理，学习记录也保存在本地。
 
-**建议学习顺序**：先 [下载并安装](/download) → 按下面章节导入视频与字幕 → 熟悉单词标记 → 播放中查词与跨视频回顾 → 最后在「单词」页复习。每节配有录屏，文字说明帮你建立预期，具体操作以视频为准。
+**建议学习顺序**：先 [下载并安装](/download) → 按下面章节导入视频与字幕 → 熟悉单词标记 → 播放中查词与跨视频回顾 → 最后在「单词」页复习。每节配有动图演示，文字说明帮你建立预期，具体操作以动图为准。
 
 ---
 
@@ -24,17 +24,13 @@
 选一集**你已经看过、剧情熟悉**的剧集，理解句意时更轻松；字幕清晰、音量适中即可，不必追求画质。
 :::
 
-<p><strong>录屏：拖拽导入</strong></p>
+<p><strong>动图：拖拽导入</strong></p>
 
-<video controls width="100%" playsinline>
-  <source src="/video-guide/01.1%20%E5%9F%BA%E7%A1%80%E6%93%8D%E4%BD%9C-%E5%AF%BC%E5%85%A5%E8%A7%86%E9%A2%91%E7%9A%84%E6%96%B9%E6%B3%951-%E6%8B%96%E6%8B%BD%E5%88%B0%E4%BE%A7%E6%A0%8F%E6%B7%BB%E5%8A%A0%E8%A7%86%E9%A2%91.mp4" type="video/mp4" />
-</video>
+<img src="/video-guide/01.1%20%E5%9F%BA%E7%A1%80%E6%93%8D%E4%BD%9C-%E5%AF%BC%E5%85%A5%E8%A7%86%E9%A2%91%E7%9A%84%E6%96%B9%E6%B3%951-%E6%8B%96%E6%8B%BD%E5%88%B0%E4%BE%A7%E6%A0%8F%E6%B7%BB%E5%8A%A0%E8%A7%86%E9%A2%91.gif" alt="演示动图" width="100%" />
 
-<p><strong>录屏：按钮导入</strong></p>
+<p><strong>动图：按钮导入</strong></p>
 
-<video controls width="100%" playsinline>
-  <source src="/video-guide/01.2%20%E5%9F%BA%E7%A1%80%E6%93%8D%E4%BD%9C-%E5%AF%BC%E5%85%A5%E8%A7%86%E9%A2%91%E7%9A%84%E6%96%B9%E6%B3%952-%E7%82%B9%E5%87%BB%E4%BE%A7%E6%A0%8F%E6%8C%89%E9%92%AE%E5%AF%BC%E5%85%A5%E8%A7%86%E9%A2%91.mp4" type="video/mp4" />
-</video>
+<img src="/video-guide/01.2%20%E5%9F%BA%E7%A1%80%E6%93%8D%E4%BD%9C-%E5%AF%BC%E5%85%A5%E8%A7%86%E9%A2%91%E7%9A%84%E6%96%B9%E6%B3%952-%E7%82%B9%E5%87%BB%E4%BE%A7%E6%A0%8F%E6%8C%89%E9%92%AE%E5%AF%BC%E5%85%A5%E8%A7%86%E9%A2%91.gif" alt="演示动图" width="100%" />
 
 ### 导入字幕
 
@@ -46,11 +42,9 @@
 
 若字幕与画面略有不同步，可在 [设置与偏好](/guide/settings) 中微调偏移。
 
-<p><strong>录屏：导入字幕</strong></p>
+<p><strong>动图：导入字幕</strong></p>
 
-<video controls width="100%" playsinline>
-  <source src="/video-guide/02%20%E5%9F%BA%E7%A1%80%E6%93%8D%E4%BD%9C-%E6%8B%96%E6%8B%BD%E6%88%96%E8%80%85%E7%82%B9%E5%87%BB%E9%80%89%E6%8B%A9%E6%96%87%E4%BB%B6%E4%BB%A5%E5%AF%BC%E5%85%A5%E5%AD%97%E5%B9%95.mp4" type="video/mp4" />
-</video>
+<img src="/video-guide/02%20%E5%9F%BA%E7%A1%80%E6%93%8D%E4%BD%9C-%E6%8B%96%E6%8B%BD%E6%88%96%E8%80%85%E7%82%B9%E5%87%BB%E9%80%89%E6%8B%A9%E6%96%87%E4%BB%B6%E4%BB%A5%E5%AF%BC%E5%85%A5%E5%AD%97%E5%B9%95.gif" alt="演示动图" width="100%" />
 
 ### 批量导入（追剧必备）
 
@@ -58,21 +52,17 @@
 
 更省心的是**自动配对**：当字幕文件名与视频文件名能对应上时（例如都包含 `S01E01`、`E02` 这类集数标记），词有戏会把正确的字幕挂到正确的视频上，无需你手动一一匹配。整理下载文件夹时，尽量保持「同集同编号」的命名习惯即可。
 
-<p><strong>录屏：批量导入与自动配对</strong></p>
+<p><strong>动图：批量导入与自动配对</strong></p>
 
-<video controls width="100%" playsinline>
-  <source src="/video-guide/03%20%E5%9F%BA%E7%A1%80%E6%93%8D%E4%BD%9C-%E6%8A%80%E5%B7%A7-%E6%89%B9%E9%87%8F%E5%AF%BC%E5%85%A5%EF%BC%8C%E5%AF%B9%E4%BA%8E%E7%94%B5%E8%A7%86%E5%89%A7%E6%9D%A5%E8%AF%B4%E4%B8%80%E4%B8%AA%E4%B8%80%E4%B8%AA%E5%AF%BC%E5%85%A5%E5%8F%AF%E8%83%BD%E6%AF%94%E8%BE%83%E9%BA%BB%E7%83%A6%EF%BC%8C%E8%BF%99%E4%B8%AA%E6%97%B6%E5%80%99%E5%8F%AF%E4%BB%A5%E9%80%9A%E8%BF%87%E6%8B%96%E6%8B%BD%E6%96%B9%E5%BC%8F%E6%89%B9%E9%87%8F%E5%AF%BC%E5%85%A5%EF%BC%8C%E5%A6%82%E6%9E%9C%E5%AD%97%E5%B9%95%E5%90%8D%E7%A7%B0%E4%B8%8E%E8%A7%86%E9%A2%91%E5%90%8D%E7%A7%B0%E5%AF%B9%E5%BA%94%EF%BC%88%E4%BE%8B%E5%A6%82%E9%83%BD%E6%9C%89S01E01%E8%BF%99%E7%A7%8D%E6%A8%A1%E5%BC%8F%EF%BC%89%EF%BC%8C%E8%BD%AF%E4%BB%B6%E5%8F%AF%E4%BB%A5%E8%87%AA%E5%8A%A8%E5%B0%86%E8%A7%86%E9%A2%91%E4%B8%8E%E5%AD%97%E5%B9%95%E5%AF%B9%E5%BA%94%E4%B8%8A.mp4" type="video/mp4" />
-</video>
+<img src="/video-guide/03%20%E5%9F%BA%E7%A1%80%E6%93%8D%E4%BD%9C-%E6%8A%80%E5%B7%A7-%E6%89%B9%E9%87%8F%E5%AF%BC%E5%85%A5%EF%BC%8C%E5%AF%B9%E4%BA%8E%E7%94%B5%E8%A7%86%E5%89%A7%E6%9D%A5%E8%AF%B4%E4%B8%80%E4%B8%AA%E4%B8%80%E4%B8%AA%E5%AF%BC%E5%85%A5%E5%8F%AF%E8%83%BD%E6%AF%94%E8%BE%83%E9%BA%BB%E7%83%A6%EF%BC%8C%E8%BF%99%E4%B8%AA%E6%97%B6%E5%80%99%E5%8F%AF%E4%BB%A5%E9%80%9A%E8%BF%87%E6%8B%96%E6%8B%BD%E6%96%B9%E5%BC%8F%E6%89%B9%E9%87%8F%E5%AF%BC%E5%85%A5%EF%BC%8C%E5%A6%82%E6%9E%9C%E5%AD%97%E5%B9%95%E5%90%8D%E7%A7%B0%E4%B8%8E%E8%A7%86%E9%A2%91%E5%90%8D%E7%A7%B0%E5%AF%B9%E5%BA%94%EF%BC%88%E4%BE%8B%E5%A6%82%E9%83%BD%E6%9C%89S01E01%E8%BF%99%E7%A7%8D%E6%A8%A1%E5%BC%8F%EF%BC%89%EF%BC%8C%E8%BD%AF%E4%BB%B6%E5%8F%AF%E4%BB%A5%E8%87%AA%E5%8A%A8%E5%B0%86%E8%A7%86%E9%A2%91%E4%B8%8E%E5%AD%97%E5%B9%95%E5%AF%B9%E5%BA%94%E4%B8%8A.gif" alt="演示动图" width="100%" />
 
 ### 用标签管理大量视频
 
 库里的视频越来越多时，列表会变得难找。可以给视频**打标签**分组——例如按剧集名、季数、类型分类。这对管理**多季美剧**特别实用：不必把所有文件塞进同一个物理文件夹，在软件里也能按标签快速筛选、浏览。
 
-<p><strong>录屏：标签管理视频库</strong></p>
+<p><strong>动图：标签管理视频库</strong></p>
 
-<video controls width="100%" playsinline>
-  <source src="/video-guide/04%20%E5%9F%BA%E7%A1%80%E6%93%8D%E4%BD%9C-%E6%8A%80%E5%B7%A7-%E7%AE%A1%E7%90%86%E8%A7%86%E9%A2%91%EF%BC%8C%E5%A6%82%E6%9E%9C%E8%A7%86%E9%A2%91%E5%A4%AA%E5%A4%9A%E5%8F%AF%E4%BB%A5%E9%80%9A%E8%BF%87%E6%B7%BB%E5%8A%A0%E6%A0%87%E7%AD%BE%E7%9A%84%E6%96%B9%E5%BC%8F%E7%AE%A1%E7%90%86%E8%A7%86%E9%A2%91%EF%BC%8C%E5%AF%B9%E4%BA%8E%E7%AE%A1%E7%90%86%E7%BE%8E%E5%89%A7%E4%B9%8B%E7%B1%BB%E7%9A%84%E8%A7%86%E9%A2%91%E9%9D%9E%E5%B8%B8%E5%A5%BD%E7%94%A8%EF%BC%8C%E5%A4%A7%E9%87%8F%E8%A7%86%E9%A2%91%E4%B8%8D%E4%BC%9A%E9%9B%86%E4%B8%AD%E5%9C%A8%E4%B8%80%E4%B8%AA%E6%96%87%E4%BB%B6%E5%A4%B9%E9%87%8C%E9%9D%A2%EF%BC%8C%E6%96%B9%E4%BE%BF%E6%B5%8F%E8%A7%88.mp4" type="video/mp4" />
-</video>
+<img src="/video-guide/04%20%E5%9F%BA%E7%A1%80%E6%93%8D%E4%BD%9C-%E6%8A%80%E5%B7%A7-%E7%AE%A1%E7%90%86%E8%A7%86%E9%A2%91%EF%BC%8C%E5%A6%82%E6%9E%9C%E8%A7%86%E9%A2%91%E5%A4%AA%E5%A4%9A%E5%8F%AF%E4%BB%A5%E9%80%9A%E8%BF%87%E6%B7%BB%E5%8A%A0%E6%A0%87%E7%AD%BE%E7%9A%84%E6%96%B9%E5%BC%8F%E7%AE%A1%E7%90%86%E8%A7%86%E9%A2%91%EF%BC%8C%E5%AF%B9%E4%BA%8E%E7%AE%A1%E7%90%86%E7%BE%8E%E5%89%A7%E4%B9%8B%E7%B1%BB%E7%9A%84%E8%A7%86%E9%A2%91%E9%9D%9E%E5%B8%B8%E5%A5%BD%E7%94%A8%EF%BC%8C%E5%A4%A7%E9%87%8F%E8%A7%86%E9%A2%91%E4%B8%8D%E4%BC%9A%E9%9B%86%E4%B8%AD%E5%9C%A8%E4%B8%80%E4%B8%AA%E6%96%87%E4%BB%B6%E5%A4%B9%E9%87%8C%E9%9D%A2%EF%BC%8C%E6%96%B9%E4%BE%BF%E6%B5%8F%E8%A7%88.gif" alt="演示动图" width="100%" />
 
 ---
 
@@ -90,11 +80,9 @@
 
 你不必在第一次看片前就把所有词过完一遍——可以先看剧，播放中再逐步标记（见下文「自动收集新词」）。若希望先扫一遍词表，可在 Word Tab 里按熟悉程度批量改色。
 
-<p><strong>录屏：Word Tab 与单词颜色标记</strong></p>
+<p><strong>动图：Word Tab 与单词颜色标记</strong></p>
 
-<video controls width="100%" playsinline>
-  <source src="/video-guide/05%20%E5%AF%BC%E5%85%A5%E5%AD%97%E5%B9%95%E5%90%8E%EF%BC%8C%E8%BD%AF%E4%BB%B6%E4%BC%9A%E8%A7%A3%E6%9E%90%E5%87%BA%E5%AD%97%E5%B9%95%E4%B8%AD%E6%89%80%E6%9C%89%E7%9A%84%E8%8B%B1%E6%96%87%E5%8D%95%E8%AF%8D%EF%BC%8C%E5%B9%B6%E5%B0%86%E5%85%B6%E5%B1%95%E7%A4%BA%E5%9C%A8word%20tab%E4%B8%AD%EF%BC%8C%E6%9C%AA%E6%A0%87%E8%AE%B0%E7%9A%84%E5%8D%95%E8%AF%8D%E5%88%9D%E5%A7%8B%E9%A2%9C%E8%89%B2%E4%B8%BA%E7%BA%A2%E8%89%B2%EF%BC%8C%E5%8F%AF%E6%A0%B9%E6%8D%AE%E7%86%9F%E6%82%89%E7%A8%8B%E5%BA%A6%EF%BC%8C%E5%B0%86%E5%8D%95%E8%AF%8D%E6%A0%87%E8%AE%B0%E9%A2%9C%E8%89%B2%EF%BC%88%E6%94%B9%E9%A2%9C%E8%89%B2%E4%B9%9F%E4%BC%9A%E5%9C%A8%E5%90%8E%E7%BB%AD%E5%AD%97%E5%B9%95%E4%B8%AD%E5%B1%95%E7%A4%BA%EF%BC%8C%E4%BE%BF%E4%BA%8E%E8%AF%86%E5%88%AB%EF%BC%89%E5%A6%82%E6%9E%9C%E5%B0%86%E5%8D%95%E8%AF%8D%E6%A0%87%E8%AE%B0%E4%B8%BA%E2%80%9C%E5%B7%B2%E7%9F%A5%E2%80%9D%E5%8D%95%E8%AF%8D%E5%90%8E%E7%BB%AD%E5%B0%86%E4%BC%9A%E5%B1%95%E7%8E%B0%E4%B8%BA%E7%99%BD%E8%89%B2%EF%BC%8C%E4%BB%A5%E5%87%8F%E5%B0%91%E5%B9%B2%E6%89%B0%E3%80%82%E5%85%B7%E4%BD%93%E6%93%8D%E4%BD%9C%E6%96%B9%E6%B3%95%E5%8F%AF%E4%BB%A5%E8%A7%81%E8%A7%86%E9%A2%91%EF%BC%9A.mp4" type="video/mp4" />
-</video>
+<img src="/video-guide/05%20%E5%AF%BC%E5%85%A5%E5%AD%97%E5%B9%95%E5%90%8E%EF%BC%8C%E8%BD%AF%E4%BB%B6%E4%BC%9A%E8%A7%A3%E6%9E%90%E5%87%BA%E5%AD%97%E5%B9%95%E4%B8%AD%E6%89%80%E6%9C%89%E7%9A%84%E8%8B%B1%E6%96%87%E5%8D%95%E8%AF%8D%EF%BC%8C%E5%B9%B6%E5%B0%86%E5%85%B6%E5%B1%95%E7%A4%BA%E5%9C%A8word%20tab%E4%B8%AD%EF%BC%8C%E6%9C%AA%E6%A0%87%E8%AE%B0%E7%9A%84%E5%8D%95%E8%AF%8D%E5%88%9D%E5%A7%8B%E9%A2%9C%E8%89%B2%E4%B8%BA%E7%BA%A2%E8%89%B2%EF%BC%8C%E5%8F%AF%E6%A0%B9%E6%8D%AE%E7%86%9F%E6%82%89%E7%A8%8B%E5%BA%A6%EF%BC%8C%E5%B0%86%E5%8D%95%E8%AF%8D%E6%A0%87%E8%AE%B0%E9%A2%9C%E8%89%B2%EF%BC%88%E6%94%B9%E9%A2%9C%E8%89%B2%E4%B9%9F%E4%BC%9A%E5%9C%A8%E5%90%8E%E7%BB%AD%E5%AD%97%E5%B9%95%E4%B8%AD%E5%B1%95%E7%A4%BA%EF%BC%8C%E4%BE%BF%E4%BA%8E%E8%AF%86%E5%88%AB%EF%BC%89%E5%A6%82%E6%9E%9C%E5%B0%86%E5%8D%95%E8%AF%8D%E6%A0%87%E8%AE%B0%E4%B8%BA%E2%80%9C%E5%B7%B2%E7%9F%A5%E2%80%9D%E5%8D%95%E8%AF%8D%E5%90%8E%E7%BB%AD%E5%B0%86%E4%BC%9A%E5%B1%95%E7%8E%B0%E4%B8%BA%E7%99%BD%E8%89%B2%EF%BC%8C%E4%BB%A5%E5%87%8F%E5%B0%91%E5%B9%B2%E6%89%B0%E3%80%82%E5%85%B7%E4%BD%93%E6%93%8D%E4%BD%9C%E6%96%B9%E6%B3%95%E5%8F%AF%E4%BB%A5%E8%A7%81%E8%A7%86%E9%A2%91%EF%BC%9A.gif" alt="演示动图" width="100%" />
 
 ---
 
@@ -106,11 +94,9 @@
 
 适合：刚遇到生词、想确认用法，或复习时想「再听一遍原句怎么说的」。
 
-<p><strong>录屏：点词查义与跨视频句库播放</strong></p>
+<p><strong>动图：点词查义与跨视频句库播放</strong></p>
 
-<video controls width="100%" playsinline>
-  <source src="/video-guide/06%20%E5%AF%B9%E4%BA%8E%E5%8D%95%E8%AF%8D%E9%9A%8F%E6%97%B6%E7%82%B9%E5%87%BB%E6%9F%A5%E8%AF%A2%E5%85%B6%E9%87%8A%E4%B9%89%EF%BC%8C%E5%90%8C%E6%97%B6%E8%BF%98%E5%8F%AF%E4%BB%A5%E8%81%94%E5%8A%A8%E6%9F%A5%E6%89%BE%E6%9C%AC%E5%9C%B0%E8%A7%86%E9%A2%91%E5%BA%93%E4%B8%AD%E5%85%B6%E4%BB%96%E5%9C%B0%E6%96%B9%E4%BD%95%E5%A4%84%E5%87%BA%E7%8E%B0%E4%BA%86%E8%AF%A5%E5%8D%95%E8%AF%8D%EF%BC%8C%E5%B9%B6%E4%B8%80%E9%94%AE%E6%92%AD%E6%94%BE%EF%BC%8C%E4%BE%BF%E4%BA%8E%E5%B7%A9%E5%9B%BA%E8%AE%B0%E5%BF%86.mp4" type="video/mp4" />
-</video>
+<img src="/video-guide/06%20%E5%AF%B9%E4%BA%8E%E5%8D%95%E8%AF%8D%E9%9A%8F%E6%97%B6%E7%82%B9%E5%87%BB%E6%9F%A5%E8%AF%A2%E5%85%B6%E9%87%8A%E4%B9%89%EF%BC%8C%E5%90%8C%E6%97%B6%E8%BF%98%E5%8F%AF%E4%BB%A5%E8%81%94%E5%8A%A8%E6%9F%A5%E6%89%BE%E6%9C%AC%E5%9C%B0%E8%A7%86%E9%A2%91%E5%BA%93%E4%B8%AD%E5%85%B6%E4%BB%96%E5%9C%B0%E6%96%B9%E4%BD%95%E5%A4%84%E5%87%BA%E7%8E%B0%E4%BA%86%E8%AF%A5%E5%8D%95%E8%AF%8D%EF%BC%8C%E5%B9%B6%E4%B8%80%E9%94%AE%E6%92%AD%E6%94%BE%EF%BC%8C%E4%BE%BF%E4%BA%8E%E5%B7%A9%E5%9B%BA%E8%AE%B0%E5%BF%86.gif" alt="演示动图" width="100%" />
 
 ### 界面里出现的任何外文词都能处理
 
@@ -118,11 +104,9 @@
 
 操作建议：遇到不确定的词先点一下看释义，再顺手标上熟悉程度；若该词在别的片子里也出现，用跨视频查找串起来复习。
 
-<p><strong>录屏：翻译、标记与跨视频单词查找</strong></p>
+<p><strong>动图：翻译、标记与跨视频单词查找</strong></p>
 
-<video controls width="100%" playsinline>
-  <source src="/video-guide/07%20%E5%AF%B9%E4%BA%8E%E8%BD%AF%E4%BB%B6%E4%B8%AD%E5%87%BA%E7%8E%B0%E7%9A%84%E4%BB%BB%E4%BD%95%E4%B8%80%E4%B8%AA%E9%9D%9E%E4%B8%AD%E6%96%87%E7%9A%84%E5%8D%95%E8%AF%8D%EF%BC%8C%E9%83%BD%E5%8F%AF%E4%BB%A5%E7%82%B9%E5%87%BB%E5%AF%B9%E5%85%B6%E8%BF%9B%E8%A1%8C%E7%BF%BB%E8%AF%91%E3%80%81%E6%A0%87%E8%AE%B0%E3%80%81%E8%B7%A8%E8%A7%86%E9%A2%91%E5%8D%95%E8%AF%8D%E6%9F%A5%E6%89%BE%EF%BC%8C%E4%BB%A5%E5%B8%AE%E4%BD%A0%E5%BF%AB%E9%80%9F%E6%89%A9%E5%85%85%E8%AF%8D%E5%BA%93%EF%BC%8C%E5%A2%9E%E5%BC%BA%E8%AE%B0%E5%BF%86.mp4" type="video/mp4" />
-</video>
+<img src="/video-guide/07%20%E5%AF%B9%E4%BA%8E%E8%BD%AF%E4%BB%B6%E4%B8%AD%E5%87%BA%E7%8E%B0%E7%9A%84%E4%BB%BB%E4%BD%95%E4%B8%80%E4%B8%AA%E9%9D%9E%E4%B8%AD%E6%96%87%E7%9A%84%E5%8D%95%E8%AF%8D%EF%BC%8C%E9%83%BD%E5%8F%AF%E4%BB%A5%E7%82%B9%E5%87%BB%E5%AF%B9%E5%85%B6%E8%BF%9B%E8%A1%8C%E7%BF%BB%E8%AF%91%E3%80%81%E6%A0%87%E8%AE%B0%E3%80%81%E8%B7%A8%E8%A7%86%E9%A2%91%E5%8D%95%E8%AF%8D%E6%9F%A5%E6%89%BE%EF%BC%8C%E4%BB%A5%E5%B8%AE%E4%BD%A0%E5%BF%AB%E9%80%9F%E6%89%A9%E5%85%85%E8%AF%8D%E5%BA%93%EF%BC%8C%E5%A2%9E%E5%BC%BA%E8%AE%B0%E5%BF%86.gif" alt="演示动图" width="100%" />
 
 ---
 
@@ -134,11 +118,9 @@
 
 复习时不仅可以看释义，还能**随时调出在电影里学过的原片段**播放——单词和当时的台词、语气绑在一起，比孤立背释义更有效。
 
-<p><strong>录屏：单词复习与片段回顾</strong></p>
+<p><strong>动图：单词复习与片段回顾</strong></p>
 
-<video controls width="100%" playsinline>
-  <source src="/video-guide/08%20%E6%89%80%E6%9C%89%E6%A0%87%E8%AE%B0%E7%9A%84%E5%8D%95%E8%AF%8D%E4%BC%9A%E5%9C%A8%E5%8D%95%E8%AF%8D%E7%95%8C%E9%9D%A2%E9%87%8C%E9%9D%A2%E7%AD%89%E5%BE%85%E4%BD%A0%E5%8E%BB%E5%A4%8D%E4%B9%A0%EF%BC%8C%E6%A0%B9%E6%8D%AE%E4%BD%A0%E7%9A%84%E7%86%9F%E6%82%89%E7%A8%8B%E5%BA%A6%E4%BC%9A%E8%B7%9F%E6%8D%AE%E9%81%97%E5%BF%98%E6%9B%B2%E7%BA%BF%E5%AE%89%E6%8E%92%E6%9C%AA%E6%9D%A5%E5%A4%8D%E4%B9%A0%E6%97%B6%E9%97%B4%EF%BC%8C%E5%9C%A8%E5%A4%8D%E4%B9%A0%E7%9A%84%E8%BF%87%E7%A8%8B%E4%B8%AD%E8%BF%98%E5%8F%AF%E4%BB%A5%E9%9A%8F%E6%97%B6%E6%9F%A5%E9%98%85%E4%BB%A5%E5%89%8D%E7%9A%84%E7%94%B5%E5%BD%B1%E7%89%87%E6%AE%B5%E4%BB%A5%E5%B7%A9%E5%9B%BA%E4%BD%A0%E7%9A%84%E5%AD%A6%E4%B9%A0.mp4" type="video/mp4" />
-</video>
+<img src="/video-guide/08%20%E6%89%80%E6%9C%89%E6%A0%87%E8%AE%B0%E7%9A%84%E5%8D%95%E8%AF%8D%E4%BC%9A%E5%9C%A8%E5%8D%95%E8%AF%8D%E7%95%8C%E9%9D%A2%E9%87%8C%E9%9D%A2%E7%AD%89%E5%BE%85%E4%BD%A0%E5%8E%BB%E5%A4%8D%E4%B9%A0%EF%BC%8C%E6%A0%B9%E6%8D%AE%E4%BD%A0%E7%9A%84%E7%86%9F%E6%82%89%E7%A8%8B%E5%BA%A6%E4%BC%9A%E8%B7%9F%E6%8D%AE%E9%81%97%E5%BF%98%E6%9B%B2%E7%BA%BF%E5%AE%89%E6%8E%92%E6%9C%AA%E6%9D%A5%E5%A4%8D%E4%B9%A0%E6%97%B6%E9%97%B4%EF%BC%8C%E5%9C%A8%E5%A4%8D%E4%B9%A0%E7%9A%84%E8%BF%87%E7%A8%8B%E4%B8%AD%E8%BF%98%E5%8F%AF%E4%BB%A5%E9%9A%8F%E6%97%B6%E6%9F%A5%E9%98%85%E4%BB%A5%E5%89%8D%E7%9A%84%E7%94%B5%E5%BD%B1%E7%89%87%E6%AE%B5%E4%BB%A5%E5%B7%A9%E5%9B%BA%E4%BD%A0%E7%9A%84%E5%AD%A6%E4%B9%A0.gif" alt="演示动图" width="100%" />
 
 ### 播放时自动收集新词，攒够再统一标记
 
@@ -146,11 +128,9 @@
 
 这样学习节奏更自然：**先沉浸看剧，再在合适时机批量处理生词**。弹窗出现的次数、阈值等可在 [设置与偏好](/guide/settings) 里按个人习惯调节。
 
-<p><strong>录屏：自动收集新词与弹窗批量标记</strong></p>
+<p><strong>动图：自动收集新词与弹窗批量标记</strong></p>
 
-<video controls width="100%" playsinline>
-  <source src="/video-guide/09%20%E6%92%AD%E6%94%BE%E8%BF%87%E7%A8%8B%E4%B8%AD-%E8%87%AA%E5%8A%A8%E6%94%B6%E9%9B%86%E6%96%B0%E8%AF%8D%E4%B8%8E%E5%BC%B9%E7%AA%97%E6%89%B9%E9%87%8F%E6%A0%87%E8%AE%B0-%E9%98%88%E5%80%BC%E5%8F%AF%E5%9C%A8%E8%AE%BE%E7%BD%AE%E8%B0%83%E8%8A%82.mp4" type="video/mp4" />
-</video>
+<img src="/video-guide/09%20%E6%92%AD%E6%94%BE%E8%BF%87%E7%A8%8B%E4%B8%AD-%E8%87%AA%E5%8A%A8%E6%94%B6%E9%9B%86%E6%96%B0%E8%AF%8D%E4%B8%8E%E5%BC%B9%E7%AA%97%E6%89%B9%E9%87%8F%E6%A0%87%E8%AE%B0-%E9%98%88%E5%80%BC%E5%8F%AF%E5%9C%A8%E8%AE%BE%E7%BD%AE%E8%B0%83%E8%8A%82.gif" alt="演示动图" width="100%" />
 
 ---
 

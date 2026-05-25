@@ -15,13 +15,11 @@
 
 ### 自定义语言
 
-如果你学的不是上述五种之一，可以**自行添加**语言。此时单词会按**空格**切分并记录，不再做词形归并。添加与切换方式见下方录屏：在**软件首页**选择学习语言即可；单词页、视频库都会随当前语言加载各自的数据。
+如果你学的不是上述五种之一，可以**自行添加**语言。此时单词会按**空格**切分并记录，不再做词形归并。添加与切换方式见下方动图：在**软件首页**选择学习语言即可；单词页、视频库都会随当前语言加载各自的数据。
 
-<p><strong>录屏：设置学习语言</strong></p>
+<p><strong>动图：设置学习语言</strong></p>
 
-<video controls width="100%" playsinline>
-  <source src="/video-guide/%E8%AE%BE%E7%BD%AE%20-%20%E8%AE%BE%E7%BD%AE%E5%AD%A6%E4%B9%A0%E8%AF%AD%E8%A8%80.mp4" type="video/mp4" />
-</video>
+<img src="/video-guide/%E8%AE%BE%E7%BD%AE%20-%20%E8%AE%BE%E7%BD%AE%E5%AD%A6%E4%B9%A0%E8%AF%AD%E8%A8%80.gif" alt="演示动图" width="100%" />
 
 ## 学习与复习
 
@@ -43,9 +41,7 @@
 
 <p><strong>调整字幕偏移量</strong></p>
 
-<video controls width="100%" playsinline>
-  <source src="/video-guide/%E6%92%AD%E6%94%BE%20-%20%E8%B0%83%E6%95%B4%E5%AD%97%E5%B9%95%E5%81%8F%E7%A7%BB%E9%87%8F.mp4" type="video/mp4" />
-</video>
+<img src="/video-guide/%E6%92%AD%E6%94%BE%20-%20%E8%B0%83%E6%95%B4%E5%AD%97%E5%B9%95%E5%81%8F%E7%A7%BB%E9%87%8F.gif" alt="演示动图" width="100%" />
 
 ## 快捷键
 
