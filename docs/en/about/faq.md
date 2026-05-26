@@ -34,4 +34,4 @@ On the [Download](/en/download) page. Windows and macOS installers update when r
 
 ## How do I give feedback?
 
-Footer [email](mailto:ned@ptodo.top) or [GitHub Issues](https://github.com/你的用户名/prism-english/issues).
+See [Contact](/en/about/contact), [email](mailto:ned@ptodo.top), or [GitHub Issues](https://github.com/musicd/prism-player-web/issues).

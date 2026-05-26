@@ -19,7 +19,7 @@
 
 <p><strong>演示：设置学习语言</strong></p>
 
-<video autoplay loop muted playsinline width="100%">
+<video autoplay loop muted playsinline>
   <source src="/video-guide/%E8%AE%BE%E7%BD%AE%20-%20%E8%AE%BE%E7%BD%AE%E5%AD%A6%E4%B9%A0%E8%AF%AD%E8%A8%80.mp4" type="video/mp4" />
 </video>
 
@@ -43,7 +43,7 @@
 
 <p><strong>调整字幕偏移量</strong></p>
 
-<video autoplay loop muted playsinline width="100%">
+<video autoplay loop muted playsinline>
   <source src="/video-guide/%E6%92%AD%E6%94%BE%20-%20%E8%B0%83%E6%95%B4%E5%AD%97%E5%B9%95%E5%81%8F%E7%A7%BB%E9%87%8F.mp4" type="video/mp4" />
 </video>
 
@@ -102,6 +102,6 @@
 
 <img src="/video-guide/%E9%97%AE%E9%A2%98%E6%8E%92%E6%9F%A5%20-%20%E9%87%8D%E5%90%AF%E8%BD%AF%E4%BB%B6.gif" alt="点击左上角刷新按钮" width="100%" />
 
-若刷新后问题仍在，请记录**操作步骤与截图**，通过应用内反馈或官方渠道联系我们，便于我们定位并修复。您的反馈对改进产品非常宝贵。
+若刷新后问题仍在，请记录**操作步骤与截图**，通过 [联系我们](/about/contact) 发邮件或留言，便于我们定位并修复。您的反馈对改进产品非常宝贵。
 
 更多隐私说明见 [隐私政策](/legal/privacy-policy)。

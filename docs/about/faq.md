@@ -34,4 +34,4 @@
 
 ## 如何反馈问题或建议？
 
-通过站点页脚的 [邮件](mailto:ned@ptodo.top) 或 [GitHub Issues](https://github.com/你的用户名/prism-english/issues) 联系。
+请前往 [联系我们](/about/contact)：可发邮件至 [ned@ptodo.top](mailto:ned@ptodo.top)、在网站填写留言表单，或通过 [GitHub Issues](https://github.com/musicd/prism-player-web/issues) / [Discussions](https://github.com/musicd/prism-player-web/discussions) 交流。

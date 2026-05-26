@@ -41,4 +41,4 @@
 
 ---
 
-有具体问题？查看 [常见问题](/about/faq)，或通过页脚邮件 / GitHub Issues 联系我们。
+有具体问题？查看 [常见问题](/about/faq)，或前往 [联系我们](/about/contact)。

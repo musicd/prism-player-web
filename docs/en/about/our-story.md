@@ -41,4 +41,4 @@ Replace this block with your real story. Readers connect to specifics—which sh
 
 ---
 
-Questions? See [FAQ](/en/about/faq) or contact us via footer email / GitHub Issues.
+Questions? See [FAQ](/en/about/faq) or [Contact](/en/about/contact).

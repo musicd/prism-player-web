@@ -1,8 +1,8 @@
 import { defineConfig } from 'vitepress'
 
-const sharedSocial = [
-  { icon: 'github', link: 'https://github.com/你的用户名/prism-english' },
-] as const
+const GITHUB_REPO = 'https://github.com/musicd/prism-player-web'
+
+const sharedSocial = [{ icon: 'github', link: GITHUB_REPO }] as const
 
 export default defineConfig({
   locales: {
@@ -18,12 +18,13 @@ export default defineConfig({
           { text: '文档', link: '/guide/quick-start' },
           { text: '理念', link: '/about/why-learn-this-way' },
           { text: '下载', link: '/download' },
+          { text: '联系我们', link: '/about/contact' },
         ],
         sidebar: [
           {
             text: '快速上手',
             items: [
-              { text: '视频教程', link: '/guide/quick-start' },
+              { text: '从这儿开始', link: '/guide/quick-start' },
               { text: '设置与偏好', link: '/guide/settings' },
             ],
           },
@@ -34,6 +35,7 @@ export default defineConfig({
               { text: '学语言的好处', link: '/about/benefits-of-language-learning' },
               { text: '我们的故事', link: '/about/our-story' },
               { text: '常见问题', link: '/about/faq' },
+              { text: '联系我们', link: '/about/contact' },
             ],
           },
           {
@@ -46,8 +48,7 @@ export default defineConfig({
         ],
         socialLinks: [...sharedSocial],
         footer: {
-          message:
-            '如有建议或反馈，请通过 <a href="mailto:ned@ptodo.top">邮件</a> 或 <a href="https://github.com/你的用户名/prism-english/issues">GitHub Issues</a> 联系我',
+          message: `反馈与建议请见 <a href="/about/contact">联系我们</a>，或发邮件至 <a href="mailto:ned@ptodo.top">ned@ptodo.top</a>、<a href="${GITHUB_REPO}/issues">GitHub Issues</a>`,
           copyright:
             'Copyright © 2024-present 词有戏 | <a href="/legal/tos">用户协议</a> | <a href="/legal/privacy-policy">隐私政策</a>',
         },
@@ -67,6 +68,7 @@ export default defineConfig({
           { text: 'Docs', link: '/en/guide/getting-started' },
           { text: 'Philosophy', link: '/en/about/why-learn-this-way' },
           { text: 'Download', link: '/en/download' },
+          { text: 'Contact', link: '/en/about/contact' },
         ],
         sidebar: [
           {
@@ -89,6 +91,7 @@ export default defineConfig({
               },
               { text: 'Our Story', link: '/en/about/our-story' },
               { text: 'FAQ', link: '/en/about/faq' },
+              { text: 'Contact', link: '/en/about/contact' },
             ],
           },
           {
@@ -101,8 +104,7 @@ export default defineConfig({
         ],
         socialLinks: [...sharedSocial],
         footer: {
-          message:
-            'Feedback? Reach us via <a href="mailto:ned@ptodo.top">email</a> or <a href="https://github.com/你的用户名/prism-english/issues">GitHub Issues</a>',
+          message: `Feedback? See <a href="/en/about/contact">Contact</a>, <a href="mailto:ned@ptodo.top">email</a>, or <a href="${GITHUB_REPO}/issues">GitHub Issues</a>`,
           copyright:
             'Copyright © 2024-present Prism Lines | <a href="/en/legal/tos">Terms</a> | <a href="/en/legal/privacy-policy">Privacy</a>',
         },
