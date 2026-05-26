@@ -20,7 +20,7 @@
 <p><strong>演示：设置学习语言</strong></p>
 
 <video autoplay loop muted playsinline>
-  <source src="/video-guide/%E8%AE%BE%E7%BD%AE%20-%20%E8%AE%BE%E7%BD%AE%E5%AD%A6%E4%B9%A0%E8%AF%AD%E8%A8%80.mp4" type="video/mp4" />
+  <source src="/video-guide/settings-learning-language.mp4" type="video/mp4" />
 </video>
 
 ## 学习与复习
@@ -44,7 +44,7 @@
 <p><strong>调整字幕偏移量</strong></p>
 
 <video autoplay loop muted playsinline>
-  <source src="/video-guide/%E6%92%AD%E6%94%BE%20-%20%E8%B0%83%E6%95%B4%E5%AD%97%E5%B9%95%E5%81%8F%E7%A7%BB%E9%87%8F.mp4" type="video/mp4" />
+  <source src="/video-guide/settings-subtitle-offset.mp4" type="video/mp4" />
 </video>
 
 ## 快捷键
@@ -70,9 +70,9 @@
 
 <p><strong>示例：播放器与按钮快捷键</strong></p>
 
-<img src="/video-guide/%E8%AE%BE%E7%BD%AE%20-%20%E5%BF%AB%E6%8D%B7%E9%94%AE%E7%A4%BA%E4%BE%8B1.jpg" alt="快捷键示例：按字幕跳转" width="100%" />
+<img src="/video-guide/settings-shortcuts-1.jpg" alt="快捷键示例：按字幕跳转" width="100%" />
 
-<img src="/video-guide/%E8%AE%BE%E7%BD%AE%20-%20%E5%BF%AB%E6%8D%B7%E9%94%AE%E7%A4%BA%E4%BE%8B2.jpg" alt="快捷键示例：按钮旁字母提示" width="100%" />
+<img src="/video-guide/settings-shortcuts-2.jpg" alt="快捷键示例：按钮旁字母提示" width="100%" />
 
 ## 数据与备份
 
@@ -84,7 +84,7 @@
 
 <p><strong>演示：在设置中导出数据</strong></p>
 
-<img src="/video-guide/%E6%95%B0%E6%8D%AE%20-%20%E6%95%B0%E6%8D%AE%E5%AF%BC%E5%87%BA.gif" alt="数据导出与导入" width="100%" />
+<img src="/video-guide/data-export-import.gif" alt="数据导出与导入" width="100%" />
 
 ### 专业版云端同步（可选）
 
@@ -100,7 +100,7 @@
 
 <p><strong>演示：问题排查 — 刷新软件</strong></p>
 
-<img src="/video-guide/%E9%97%AE%E9%A2%98%E6%8E%92%E6%9F%A5%20-%20%E9%87%8D%E5%90%AF%E8%BD%AF%E4%BB%B6.gif" alt="点击左上角刷新按钮" width="100%" />
+<img src="/video-guide/troubleshoot-restart.gif" alt="点击左上角刷新按钮" width="100%" />
 
 若刷新后问题仍在，请记录**操作步骤与截图**，通过 [联系我们](/about/contact) 发邮件或留言，便于我们定位并修复。您的反馈对改进产品非常宝贵。
 
