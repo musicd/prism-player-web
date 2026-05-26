@@ -5,6 +5,7 @@
     "vitepress": "2.0.0-alpha.17"
   },
   "scripts": {
+    "assets:mp4-to-webp": "bash ./scripts/mp4-to-webp.sh",
     "dev": "vitepress dev docs",
     "build": "vitepress build docs",
     "docs:preview": "vitepress preview docs"
