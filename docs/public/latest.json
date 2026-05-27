@@ -1,0 +1,14 @@
+{
+  "version": "0.0.1",
+  "releasePageUrl": "/download",
+  "downloads": {
+    "win": {
+      "label": "Windows",
+      "url": "#"
+    },
+    "mac": {
+      "label": "macOS",
+      "url": "#"
+    }
+  }
+}

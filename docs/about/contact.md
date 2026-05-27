@@ -4,32 +4,17 @@
 
 ## 主要联系方式
 
-### 邮件（推荐）
-
-直接发送至：**[ned@ptodo.top](mailto:ned@ptodo.top)**
-
-适合：详细描述问题、附上截图、商务合作说明。我们通常会在业余时间尽快回复，感谢耐心等候。
-
-### GitHub
-
-仓库：[github.com/musicd/prism-player-web](https://github.com/musicd/prism-player-web)
-
-- **[Issues](https://github.com/musicd/prism-player-web/issues)**：报告 Bug、功能建议（可公开讨论、便于跟踪）
-- **[Discussions](https://github.com/musicd/prism-player-web/discussions)**：提问、交流用法、分享想法（更接近轻量论坛）
-
-::: tip 国内网络说明
-部分地区访问 GitHub 可能较慢或暂时无法打开。若遇到此情况，**请优先使用下方留言表单或直接发邮件**，我们一样能收到。
-:::
-
 ## 网站留言表单
 
-不便使用 GitHub、或希望私信沟通时，可填写下方表单，内容将发送至 **ned@ptodo.top**。
+推荐优先使用表单留言：无需注册、信息更集中，也方便我们统一跟进。
+
+你可以在表单中附上**截图或动图**，只要单次附件合计 **不超过 10MB** 即可。
 
 <div class="contact-form-wrap">
 
 <form class="contact-form" action="https://formsubmit.co/ned@ptodo.top" method="POST" enctype="multipart/form-data">
   <input type="hidden" name="_subject" value="【词有戏官网】新留言" />
-  <input type="hidden" name="_template" value="table" />
+  <input type="hidden" name="_template" value="box" />
   <input type="text" name="_gotcha" style="display:none" tabindex="-1" autocomplete="off" />
 
   <label>
@@ -65,29 +50,58 @@
   <button type="submit">发送留言</button>
 </form>
 
-<p class="contact-form-hint">首次启用表单时，FormSubmit 会向 ned@ptodo.top 发送一封确认邮件，点击确认后才会开始转发留言。提交成功后会跳转到 FormSubmit 感谢页。附件单次合计不超过约 10MB；多张或大图建议直接发邮件。</p>
-
 </div>
 
+## 邮件
+
+若你更习惯用邮件沟通，或附件超过 10MB，可直接发送至：**[ned@ptodo.top](mailto:ned@ptodo.top)**  
+
+适合：详细描述问题、附上截图/录屏、商务合作说明。我们通常会在业余时间尽快回复，感谢耐心等候。
+
+## GitHub
+
+仓库：[github.com/musicd/prism-player-web](https://github.com/musicd/prism-player-web)
+
+- **[Discussions](https://github.com/musicd/prism-player-web/discussions)**：提问、交流用法、分享想法（更接近轻量论坛）
+- **[Issues](https://github.com/musicd/prism-player-web/issues)**：报告 Bug、功能建议（可公开讨论、便于跟踪）
+
+::: tip 国内网络说明
+部分地区访问 GitHub 可能较慢或暂时无法打开。若遇到此情况，请优先使用上面的**表单**或直接**邮件**联系我们。
+:::
+
 <style>
-.contact-form-wrap { margin: 1.5rem 0 2rem; max-width: 36rem; }
-.contact-form { display: flex; flex-direction: column; gap: 1rem; }
+.contact-form-wrap {
+  margin: 1.5rem 0 2rem;
+  max-width: 42rem;
+  border: 1px solid var(--vp-c-divider);
+  border-radius: 12px;
+  background: var(--vp-c-bg-soft);
+  padding: 1rem;
+}
+.contact-form { display: flex; flex-direction: column; gap: 0.9rem; }
 .contact-form label { display: flex; flex-direction: column; gap: 0.35rem; font-size: 0.9rem; }
 .contact-form label span { font-weight: 500; color: var(--vp-c-text-1); }
 .contact-form input,
 .contact-form select,
 .contact-form textarea {
-  padding: 0.5rem 0.75rem;
+  padding: 0.6rem 0.8rem;
   border: 1px solid var(--vp-c-divider);
   border-radius: 6px;
   background: var(--vp-c-bg);
   color: var(--vp-c-text-1);
   font: inherit;
 }
-.contact-form textarea { resize: vertical; min-height: 8rem; }
+.contact-form input:focus,
+.contact-form select:focus,
+.contact-form textarea:focus {
+  outline: none;
+  border-color: var(--vp-c-brand-1);
+  box-shadow: 0 0 0 3px color-mix(in srgb, var(--vp-c-brand-1) 20%, transparent);
+}
+.contact-form textarea { resize: vertical; min-height: 9rem; }
 .contact-form button {
   align-self: flex-start;
-  padding: 0.55rem 1.25rem;
+  padding: 0.65rem 1.25rem;
   border: none;
   border-radius: 6px;
   background: var(--vp-c-brand-1);
@@ -96,7 +110,7 @@
   cursor: pointer;
 }
 .contact-form button:hover { opacity: 0.9; }
-.contact-form-hint { font-size: 0.8rem; color: var(--vp-c-text-2); margin-top: 0.75rem; }
+.contact-form-hint { font-size: 0.82rem; color: var(--vp-c-text-2); margin-top: 0.75rem; line-height: 1.6; }
 </style>
 
 ---

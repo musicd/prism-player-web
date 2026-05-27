@@ -1,6 +1,8 @@
 .vp-doc video {
-  width: 70%;
+  width: 77%;
   max-width: 100%;
   display: block;
   margin: 1rem auto;
+  border-radius: 18px;
+  overflow: hidden;
 }
