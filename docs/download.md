@@ -1,5 +1,6 @@
 ﻿---
-title: 下载
+title: 下载词有戏桌面版
+description: 下载词有戏 Windows / macOS 桌面版，用影视字幕学英语。
 ---
 
 # 下载桌面版

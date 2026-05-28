@@ -1,18 +1,44 @@
 import { defineConfig } from 'vitepress'
-
-const GITHUB_REPO = 'https://github.com/musicd/prism-player-web'
+import {
+  GITHUB_REPO,
+  SEO_EN,
+  SEO_ZH,
+  SITE_URL,
+  siteHead,
+} from './site-meta'
 
 const sharedSocial = [{ icon: 'github', link: GITHUB_REPO }] as const
 
 export default defineConfig({
+  cleanUrls: true,
+  lastUpdated: true,
+  transformHead({ pageData }) {
+    let slug = pageData.relativePath.replace(/\.md$/, '')
+    if (slug === 'index') slug = ''
+    else if (slug.endsWith('/index')) slug = slug.slice(0, -'/index'.length)
+    const canonical = slug ? `${SITE_URL}/${slug}` : `${SITE_URL}/`
+
+    return [
+      ['link', { rel: 'canonical', href: canonical }],
+      ['meta', { property: 'og:url', content: canonical }],
+    ]
+  },
   locales: {
     root: {
       label: '简体中文',
       lang: 'zh-CN',
       title: '词有戏',
-      description: '词有戏官方文档 — 用影视字幕学英语的桌面学习工具',
+      titleTemplate: ':title | 词有戏',
+      description: SEO_ZH.description,
+      head: siteHead({
+        siteName: '词有戏',
+        description: SEO_ZH.description,
+        keywords: SEO_ZH.keywords,
+        locale: 'zh-CN',
+      }),
       themeConfig: {
         logo: '/FluentColorChat20.svg',
+        siteTitle: '词有戏',
         nav: [
           { text: '首页', link: '/' },
           { text: '文档', link: '/guide/quick-start' },
@@ -59,10 +85,17 @@ export default defineConfig({
       lang: 'en-US',
       link: '/en/',
       title: 'Prism Lines',
-      description:
-        'Prism Lines official docs — Desktop app to learn English from TV and video subtitles',
+      titleTemplate: ':title | Prism Lines',
+      description: SEO_EN.description,
+      head: siteHead({
+        siteName: 'Prism Lines',
+        description: SEO_EN.description,
+        keywords: SEO_EN.keywords,
+        locale: 'en-US',
+      }),
       themeConfig: {
         logo: '/FluentColorChat20.svg',
+        siteTitle: 'Prism Lines',
         nav: [
           { text: 'Home', link: '/en/' },
           { text: 'Docs', link: '/en/guide/getting-started' },
