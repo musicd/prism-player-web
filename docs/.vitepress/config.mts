@@ -37,7 +37,7 @@ export default defineConfig({
         locale: 'zh-CN',
       }),
       themeConfig: {
-        logo: '/FluentColorChat20.svg',
+        logo: '/ciyouxi.png',
         siteTitle: '词有戏',
         nav: [
           { text: '首页', link: '/' },
@@ -94,7 +94,7 @@ export default defineConfig({
         locale: 'en-US',
       }),
       themeConfig: {
-        logo: '/FluentColorChat20.svg',
+        logo: '/ciyouxi.png',
         siteTitle: 'Prism Lines',
         nav: [
           { text: 'Home', link: '/en/' },

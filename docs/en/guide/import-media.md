@@ -20,6 +20,19 @@ For a first run, choose a moderately sized episode with clear subtitles to exper
 
 If timing is slightly off, adjust offset in [Settings](/en/guide/settings).
 
+## Auxiliary subtitles (optional)
+
+**Preferred:** Import a **bilingual subtitle** file when you can—one timeline with both your target language and a native-language (or reference) line. Bilingual tracks usually stay better aligned on the timeline than pairing a primary track with a separate translation file.
+
+**Fallback:** If no suitable bilingual file is available, Prism Lines lets you add an **auxiliary subtitle** after the **primary** subtitles are loaded (for example a Chinese-only or native-language translation track for reading alongside the show). Auxiliary text is for on-screen reference only; it is **not** used for word parsing or your vocabulary list.
+
+**How to add auxiliary subtitles:**
+
+1. Import primary subtitles first (see above).
+2. In the player, open the subtitle panel via the **top-right** subtitle/info control on the video.
+3. Under the primary subtitle status, choose **add auxiliary subtitles** (or update/remove if one is already loaded).
+4. Pick a `.srt`, `.vtt`, or `.ass` file. Auxiliary lines appear **above** the primary subtitles during playback. Scroll the wheel on the auxiliary text to resize it only; scroll on the primary line to resize the main subtitles only—the two sizes are independent.
+
 ## How Material Is Split
 
 After import, the app:
