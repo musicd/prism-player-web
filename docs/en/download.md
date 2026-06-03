@@ -1,25 +1,25 @@
 ﻿---
-layout: page
-title: Download
+title: Download Prism Lines Desktop
+description: Download Prism Lines for Windows or macOS — learn languages from TV and video subtitles.
 ---
 
 # Download Desktop App
 
-Prism Lines (词有戏) is a **Windows / macOS** desktop application. Install links will be updated on this page when officially released.
+Prism Lines (词有戏) is a **Windows / macOS** desktop application.
 
-## Windows
+<DownloadLatest />
 
-- Version: Coming soon
-- Download: [Link TBD](#)
+## Windows {#windows}
+
+<DownloadPlatformInfo platform="win" />
 
 ::: info
-Get installers only from this page or [GitHub Releases](https://github.com/你的用户名/prism-english/releases). Do not download from unknown sources.
+Get installers only from this page or [releases.ciyouxi.ptodo.top](https://releases.ciyouxi.ptodo.top). Do not download from unknown sources.
 :::
 
-## macOS
+## macOS {#macos}
 
-- Version: Coming soon
-- Download: [Link TBD](#)
+<DownloadPlatformInfo platform="mac" />
 
 ::: tip
 If macOS warns that the developer cannot be verified, allow the app in System Settings or wait for a signed build.

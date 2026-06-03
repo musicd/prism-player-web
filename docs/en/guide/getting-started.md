@@ -4,7 +4,7 @@ Prism Lines is not another isolated vocabulary app. It starts from **shows and v
 
 ## Install (Desktop)
 
-1. Go to the [Download](/en/download) page for Windows or macOS installers (links available when released).
+1. Go to the [Download](/en/download) page and get the Windows or macOS installer (currently v0.6.2).
 2. Install and launch the app.
 3. On the welcome screen, choose your **target language** (e.g. English).
 

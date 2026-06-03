@@ -1,14 +1,14 @@
 {
-  "version": "0.0.1",
+  "version": "0.6.2",
   "releasePageUrl": "/download",
   "downloads": {
     "win": {
       "label": "Windows",
-      "url": "www.baidu.com"
+      "url": "https://releases.ciyouxi.ptodo.top/%E8%AF%8D%E6%9C%89%E6%88%8F_0.6.2.exe"
     },
     "mac": {
       "label": "macOS",
-      "url": "www.baidu.com"
+      "url": "https://releases.ciyouxi.ptodo.top/%E8%AF%8D%E6%9C%89%E6%88%8F_0.6.2.dmg"
     }
   }
 }

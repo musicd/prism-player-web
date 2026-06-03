@@ -1,29 +1,15 @@
 <script setup lang="ts">
-import { onMounted, provide, ref } from 'vue'
+import { computed } from 'vue'
+import { useRoute } from 'vitepress'
+import { useLatestDownload } from './latest-download'
 
-type LatestJson = {
-  version: string
-  releasePageUrl?: string
-  downloads?: {
-    win?: { label?: string; url?: string }
-    mac?: { label?: string; url?: string }
-  }
-}
+const route = useRoute()
+const en = computed(() => route.path.startsWith('/en'))
+const { latest, loadError } = useLatestDownload()
 
-const latest = ref<LatestJson | null>(null)
-const loadError = ref('')
-
-provide('download-latest', latest)
-
-onMounted(async () => {
-  try {
-    const res = await fetch('/latest.json', { cache: 'no-cache' })
-    if (!res.ok) throw new Error(`HTTP ${res.status}`)
-    latest.value = (await res.json()) as LatestJson
-  } catch {
-    loadError.value = '最新版本信息加载失败，请稍后重试。'
-  }
-})
+const releasePageHref = computed(() =>
+  en.value ? '/en/download' : latest.value?.releasePageUrl || '/download',
+)
 </script>
 
 <template>
@@ -36,28 +22,34 @@ onMounted(async () => {
       border-radius: 10px;
     "
   >
-    <div style="font-weight: 600; margin-bottom: 6px">最新版本：{{ latest.version }}</div>
+    <div style="font-weight: 600; margin-bottom: 6px">
+      {{ en ? 'Latest version' : '最新版本' }}：{{ latest.version }}
+    </div>
     <div style="display: flex; gap: 10px; flex-wrap: wrap">
       <a
         v-if="latest.downloads?.win?.url && latest.downloads.win.url !== '#'"
         class="VPButton medium brand"
         :href="latest.downloads.win.url"
       >
-        下载 Windows
+        {{ en ? 'Download Windows' : '下载 Windows' }}
       </a>
-      <a v-else class="VPButton medium alt" href="#windows">Windows 下载暂未开放</a>
+      <a v-else class="VPButton medium alt" href="#windows">
+        {{ en ? 'Windows download not available' : 'Windows 下载暂未开放' }}
+      </a>
 
       <a
         v-if="latest.downloads?.mac?.url && latest.downloads.mac.url !== '#'"
         class="VPButton medium brand"
         :href="latest.downloads.mac.url"
       >
-        下载 macOS
+        {{ en ? 'Download macOS' : '下载 macOS' }}
       </a>
-      <a v-else class="VPButton medium alt" href="#macos">macOS 下载暂未开放</a>
+      <a v-else class="VPButton medium alt" href="#macos">
+        {{ en ? 'macOS download not available' : 'macOS 下载暂未开放' }}
+      </a>
 
-      <a v-if="latest.releasePageUrl" class="VPButton medium alt" :href="latest.releasePageUrl">
-        查看下载页与说明
+      <a v-if="latest.releasePageUrl" class="VPButton medium alt" :href="releasePageHref">
+        {{ en ? 'Download page & notes' : '查看下载页与说明' }}
       </a>
     </div>
   </div>
@@ -71,7 +63,10 @@ onMounted(async () => {
       border-radius: 10px;
     "
   >
-    {{ loadError }}
+    {{
+      en
+        ? 'Failed to load latest version info. Please try again later.'
+        : '最新版本信息加载失败，请稍后重试。'
+    }}
   </div>
 </template>
-
