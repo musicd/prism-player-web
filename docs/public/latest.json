@@ -1,14 +1,14 @@
 {
-  "version": "0.6.4",
+  "version": "0.6.5",
   "releasePageUrl": "/download",
   "downloads": {
     "win": {
       "label": "Windows",
-      "url": "https://releases.ciyouxi.ptodo.top/%E8%AF%8D%E6%9C%89%E6%88%8F_0.6.4.exe"
+      "url": "https://releases.ciyouxi.ptodo.top/%E8%AF%8D%E6%9C%89%E6%88%8F_0.6.5.exe"
     },
     "mac": {
       "label": "macOS",
-      "url": "https://releases.ciyouxi.ptodo.top/%E8%AF%8D%E6%9C%89%E6%88%8F_0.6.4.dmg"
+      "url": "https://releases.ciyouxi.ptodo.top/%E8%AF%8D%E6%9C%89%E6%88%8F_0.6.5.dmg"
     }
   }
 }
